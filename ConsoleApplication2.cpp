@@ -9,6 +9,7 @@ int main()
     std::cout << "Командная работа";
     fhfhfh
         rorororor
+        ddddddd
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
